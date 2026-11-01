@@ -1,0 +1,3 @@
+﻿"TimestampUTC","EventID","Process","ProcessID","ProcessGUID","User"
+"2026-11-01 10:18:19.259","1","powershell.exe","23444","{50a33978-11eb-6ae7-5d07-00000000cb07}","[REDACTED]"
+"2026-11-01 10:18:25.042","5","powershell.exe","23444","{50a33978-11eb-6ae7-5d07-00000000cb07}","[REDACTED]"

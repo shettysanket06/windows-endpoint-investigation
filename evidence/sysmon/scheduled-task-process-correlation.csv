@@ -1,0 +1,2 @@
+﻿"Timestamp","EventID","ProcessID","ProcessGUID","Image","ParentImage","CommandLine"
+"01-11-2026 16:29:16","1","2920","{50a33978-1b84-6ae7-9b08-00000000cb07}","C:\Windows\System32\cmd.exe","C:\Windows\System32\svchost.exe","""C:\WINDOWS\System32\cmd.exe"" /d /c echo SOC-LAB-TASK-RAN > ""%USERPROFILE%\Documents\cybersecurity-soc-portfolio\windows-endpoint-investigation\evidence\sysmon\scheduled-task-output.txt"""

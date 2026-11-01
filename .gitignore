@@ -1,0 +1,20 @@
+﻿# Raw Windows event and diagnostic files
+*.evtx
+*.etl
+*.dmp
+
+# Windows-generated files
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+
+# May contain full local command lines, usernames or paths
+evidence/sysmon/powershell-commandline-hunt.csv
+
+# Generated backup files
+*.backup.*
+
+# Duplicate extracted copy of scripts; canonical copies are in scripts/
+scripts/endpoint-investigation-script-pack/

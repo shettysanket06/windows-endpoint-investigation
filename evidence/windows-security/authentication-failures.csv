@@ -1,0 +1,8 @@
+﻿"Timestamp","RecordID","Account","Process","ProcessID","LogonType","LogonProcess","AuthenticationPackage","Source","Status","SubStatus"
+"01-11-2026 10:46:53","6919276","Account-1","AsusSoftwareManager.exe","0x1328","2","Advapi  ","Negotiate","Not supplied","0xc000006d","0xc000006a"
+"01-11-2026 14:21:35","6922478","Account-1","svchost.exe","0x93c","2","User32 ","Negotiate","Loopback","0xc000006d","0xc000006a"
+"01-11-2026 14:21:37","6922479","Account-1","svchost.exe","0x93c","2","User32 ","Negotiate","Loopback","0xc000006d","0xc000006a"
+"01-11-2026 15:14:02","6922761","Account-1","svchost.exe","0x93c","2","User32 ","Negotiate","Loopback","0xc000006d","0xc000006a"
+"01-11-2026 17:47:53","6923618","Account-1","svchost.exe","0x93c","2","User32 ","Negotiate","Loopback","0xc000006d","0xc000006a"
+"01-11-2026 17:47:57","6923656","Account-1","svchost.exe","0x93c","2","User32 ","Negotiate","Loopback","0xc000006d","0xc000006a"
+"01-11-2026 23:00:51","6925009","Account-1","AsusSoftwareManager.exe","0x1424","2","Advapi  ","Negotiate","Not supplied","0xc000006d","0xc000006a"
