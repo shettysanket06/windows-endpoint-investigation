@@ -113,6 +113,25 @@ Two failures were associated with AsusSoftwareManager.exe. The executable was lo
 
 No external brute-force attack or confirmed compromise was established by the collected evidence.
 
+## Investigation reports and evidence
+
+The reports below contain the investigation narratives and analyst conclusions. The evidence links open the sanitised event exports committed with this project.
+
+### Investigation reports
+
+- [Process and PowerShell investigation](reports/process-and-powershell-investigation.md)
+- [Scheduled-task investigation](reports/scheduled-task-investigation.md)
+- [Authentication investigation](reports/authentication-investigation.md)
+
+### Selected evidence
+
+- [Sysmon process lifecycle — primary export](evidence/sysmon/process-lifecycle.csv)
+- [Sysmon process lifecycle — reusable script output](evidence/sysmon/process-lifecycle-reusable-script.csv)
+- [Scheduled-task execution events](evidence/task-scheduler/scheduled-task-execution-events.csv)
+- [Scheduled-task process correlation](evidence/sysmon/scheduled-task-process-correlation.csv)
+- [Windows authentication failures](evidence/windows-security/authentication-failures.csv)
+- [All evidence files](evidence/)
+
 ## Repository structure
 
     windows-endpoint-investigation/
